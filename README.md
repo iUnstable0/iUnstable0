@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Hi, I'm [@Unstable0](https://github.com/Unstable0)! I'm 14 years old and I like to code 🤓💻
+Hi, I'm [@Unstable0](https://github.com/Unstable0)! I'm 14 years old and I love coding 🤓💻
 
 Languages I know:
 - Lua
