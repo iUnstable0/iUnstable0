@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **Unstable0/Unstable0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm [@Unstable0](https://github.com/Unstable0)! I'm 14 years old and I like to code 🤓💻
+
+Languages I know:
+- Lua
+- Python
+- JavaScript (NodeJS)
+- Swift
+- AppleScript
+- Bash
+- Shell
+- SQL
+
+Languages I'm learning:
+- C#
+- C++
+- Java
+
+My Discord: xbox#0109
