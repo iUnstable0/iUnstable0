@@ -1,22 +1,22 @@
 ### Hello! 👋
 
-Hi, I'm [@Unstable0](https://github.com/Unstable0)! I'm 14 years old and I love coding 🤓💻
+Hi, I'm [@Unstable0](https://github.com/Unstable0)!
 
 Languages I know:
 - Lua
 - Python
-- JavaScript (NodeJS)
-- Swift
-- AppleScript
+- JavaScript
 - Bash
 - Shell
 - SQL
+- Swift
 
 Languages I'm learning:
 - C#
 - C++
-- Java
+- TypeScript
+- AppleScript
 
-I'm also learning HTML and CSS.
+HTML, CSS, NodeJS, Svelte, and more...
 
-My Discord: xbox#0109
+My Discord: xbox#8768
