@@ -11,12 +11,14 @@ Languages I know:
 - SQL
 - Swift
 
+NodeJSm and more...
+
 Languages I'm learning:
 - C#
 - C++
 - TypeScript
 - AppleScript
 
-HTML, CSS, NodeJS, Svelte, and more...
+HTML, CSS, Svelte (Not really a language), and more...
 
 My Discord: xbox#8768
