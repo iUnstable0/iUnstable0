@@ -2,6 +2,14 @@
 
 Hi, I'm [@Unstable0](https://github.com/Unstable0)!
 
+![](https://komarev.com/ghpvc/?username=Unstable0)
+
+![](https://github-readme-stats.vercel.app/api?username=Unstable0&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unstable0&theme=dark)
+
+<a href="https://discord.com/users/420875438655537162">
+  <img src="https://lanyard-profile-readme.vercel.app/api/420875438655537162" align="left" />
+</a>
+
 Languages I know:
 - Lua
 - Python
