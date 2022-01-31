@@ -10,9 +10,6 @@ Hi, I'm [@Unstable0](https://github.com/Unstable0)!
   <img src="https://lanyard-profile-readme.vercel.app/api/420875438655537162" align="left" />
 </a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/420875438655537162
-                            )](https://discord.com/users/420875438655537162)
-
 Languages I know:
 - Lua
 - Python
