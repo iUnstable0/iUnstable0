@@ -14,14 +14,14 @@ Languages I know:
 - JavaScript
 - Bash
 - Shell
-- SQL
-- Swift
 
 NodeJSm and more...
 
 Languages I'm learning:
 - C#
 - C++
+- Swift
+- ObjC
 - TypeScript
 - AppleScript
 
