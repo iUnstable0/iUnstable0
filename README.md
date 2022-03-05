@@ -15,7 +15,7 @@ Languages I know:
 - Bash
 - Shell
 
-NodeJSm and more...
+NodeJS and more...
 
 Languages I'm learning:
 - C#
