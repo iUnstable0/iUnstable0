@@ -8,4 +8,4 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/420875438655537162" align="left" />
 </a>
 
-My Discord: xbox#8768
+My Discord: xbox#5920
