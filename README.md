@@ -2,10 +2,17 @@
 
 ![](https://komarev.com/ghpvc/?username=iUnstable0)
 
-![](https://github-readme-stats.vercel.app/api?username=iUnstable0&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iUnstable0&theme=dark)
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=iUnstable0&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iUnstable0&theme=dark) -->
+<!-- 
 <a href="https://discord.com/users/420875438655537162">
   <img src="https://lanyard-profile-readme.vercel.app/api/420875438655537162" align="left" />
-</a>
+</a> -->
+
+![](https://github-readme-stats.vercel.app/api?username=iUnstable0&count_private=true&theme=codeSTACKr)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=iUnstable0&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />
+ -->
+<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=iUnstable0)](https://github.com/anuraghazra/github-readme-stats) -->
 
 My Discord: kelp#8353
