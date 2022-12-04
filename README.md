@@ -11,8 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=iUnstable0&count_private=true&theme=codeSTACKr)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=iUnstable0&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" /> -->
 
-<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=iUnstable0)](https://github.com/anuraghazra/github-readme-stats) -->
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=iUnstable0)](https://github.com/anuraghazra/github-readme-stats)
 
 My Discord: kelp#8353
