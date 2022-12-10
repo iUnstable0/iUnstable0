@@ -14,5 +14,7 @@
 <!-- <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" /> -->
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=iUnstable0&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/938705972350840882?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/938705972350840882)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/938705972350840882?theme=dark&bg=121d2e&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/938705972350840882)
+
 My Discord: kelp#8353
