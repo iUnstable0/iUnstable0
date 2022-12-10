@@ -8,13 +8,13 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/420875438655537162" align="left" />
 </a> -->
 
-![](https://github-readme-stats.vercel.app/api?username=iUnstable0&count_private=true&theme=codeSTACKr)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/938705972350840882?theme=dark&bg=121d2e&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/938705972350840882)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=iUnstable0&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=iUnstable0&count_private=true&theme=codeSTACKr&bg_color=121d2e&border_radius=20px&title_color=ffffff&text_color=bcbcbc&hide_border=true&ring_color=f5b53e)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=iUnstable0&layout=compact&theme=codeSTACKr&bg_color=121d2e&border_radius=20px&title_color=ffffff&text_color=bcbcbc&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" /> -->
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=iUnstable0&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/938705972350840882?theme=dark&bg=121d2e&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/938705972350840882)
+<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=iunstable0&theme=codeSTACKr&bg_color=121d2e&border_radius=20px&title_color=ffffff&text_color=bcbcbc&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 My Discord: kelp#8353
