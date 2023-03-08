@@ -16,5 +16,3 @@
 <!-- <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" /> -->
 
 <!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=iunstable0&theme=codeSTACKr&bg_color=121d2e&border_radius=20px&title_color=ffffff&text_color=bcbcbc&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-My Discord: kelp#8353
